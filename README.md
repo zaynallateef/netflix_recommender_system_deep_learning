@@ -21,6 +21,6 @@
 
 # Train embeddings and a multilayer neural network to predict user ratings.
 
-## you can check the dataset here ()[https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data]
+## you can check the dataset here [https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data]
 
 ## note : read more about Matrix Factorization and you can use this code file local on your computer , do not forget that the dataset folder here is called archive so change it later when you download the dataset
